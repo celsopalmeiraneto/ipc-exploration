@@ -1,0 +1,11 @@
+{
+  "name": "ipc-exploration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Celso Palmeira Neto",
+  "license": "Unlicense"
+}
